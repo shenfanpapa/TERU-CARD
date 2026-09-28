@@ -1,0 +1,35 @@
+{
+  "title": "照",
+  "subtitle": "羁绊皮肤",
+  "edition": "02 / 神社派对",
+  "sourceMode": "composite",
+  "collection": "神社派对",
+  "description": "粉发狐耳角色 · 羁绊皮肤",
+  "assets": {
+    "subject": "./cards/parasol/assets/subject.png",
+    "background": "./cards/parasol/assets/background.png",
+    "text": "./cards/parasol/assets/text.png",
+    "effects": "./cards/parasol/assets/effects.png",
+    "lineart": "./cards/parasol/assets/lineart.png",
+    "back": "./cards/parasol/assets/back.png",
+    "model": "./assets/card.glb"
+  },
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.42,
+    "backgroundDepth": -0.32,
+    "effectsDepth": 0.8,
+    "foil": 0.52
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "background": "#f3f0ff",
+    "finish": "gold"
+  }
+}

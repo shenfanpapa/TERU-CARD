@@ -1,0 +1,7 @@
+tools/
+web/node_modules/
+verification/**/*.png
+verification/**/*.webm
+*.blend1
+*.blend2
+*.zip

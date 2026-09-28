@@ -1,0 +1,35 @@
+{
+  "title": "照",
+  "subtitle": "小护士",
+  "edition": "03 / 神社派对",
+  "sourceMode": "composite",
+  "collection": "神社派对",
+  "description": "粉发狐耳角色 · 小护士",
+  "assets": {
+    "subject": "./cards/nurse/assets/subject.png",
+    "background": "./cards/nurse/assets/background.png",
+    "text": "./cards/nurse/assets/text.png",
+    "effects": "./cards/nurse/assets/effects.png",
+    "lineart": "./cards/nurse/assets/lineart.png",
+    "back": "./cards/nurse/assets/back.png",
+    "model": "./assets/card.glb"
+  },
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.42,
+    "backgroundDepth": -0.32,
+    "effectsDepth": 0.8,
+    "foil": 0.52
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "background": "#f3f0ff",
+    "finish": "gold"
+  }
+}

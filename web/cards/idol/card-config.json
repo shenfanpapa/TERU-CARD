@@ -1,0 +1,35 @@
+{
+  "title": "照",
+  "subtitle": "魔旅歌姬",
+  "edition": "04 / 神社派对",
+  "sourceMode": "composite",
+  "collection": "神社派对",
+  "description": "粉发狐耳角色 · 魔旅歌姬",
+  "assets": {
+    "subject": "./cards/idol/assets/subject.png",
+    "background": "./cards/idol/assets/background.png",
+    "text": "./cards/idol/assets/text.png",
+    "effects": "./cards/idol/assets/effects.png",
+    "lineart": "./cards/idol/assets/lineart.png",
+    "back": "./cards/idol/assets/back.png",
+    "model": "./assets/card.glb"
+  },
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.42,
+    "backgroundDepth": -0.32,
+    "effectsDepth": 0.8,
+    "foil": 0.52
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "background": "#f3f0ff",
+    "finish": "gold"
+  }
+}

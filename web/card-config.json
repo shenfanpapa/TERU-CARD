@@ -1,0 +1,47 @@
+{
+  "title": "照",
+  "subtitle": "三神御主",
+  "technique": "",
+  "tagline": "",
+  "edition": "001 / 神社派对",
+  "collection": "神社派对",
+  "description": "粉发狐耳巫女 · 三神御主",
+  "assets": {
+    "subject": "./assets/subject.png",
+    "tail": "./assets/tail.png",
+    "gohei": "./assets/gohei.png",
+    "background": "./assets/background.png",
+    "effects": "./assets/effects.png",
+    "lineart": "./assets/lineart.png",
+    "text": "./assets/text.png",
+    "model": "./assets/card.glb",
+    "back": "./assets/back.png"
+  },
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.42,
+    "backgroundDepth": -0.32,
+    "effectsScale": 1,
+    "effectsDepth": 0.8,
+    "foil": 0.42
+  },
+  "characterLayers": {
+    "tailDepth": -0.35,
+    "bodyDepth": 0.42,
+    "goheiDepth": 0.9,
+    "gripUV": [
+      0.685,
+      0.363
+    ]
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "background": "#f3f0ff"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "照",
+  "subtitle": "三神御主",
+  "edition": "01 / 神社派对",
+  "sourceMode": "composite",
+  "collection": "神社派对",
+  "description": "粉发狐耳角色 · 三神御主",
+  "assets": {
+    "subject": "./cards/miko/assets/subject.png",
+    "background": "./cards/miko/assets/background.png",
+    "text": "./cards/miko/assets/text.png",
+    "effects": "./cards/miko/assets/effects.png",
+    "lineart": "./cards/miko/assets/lineart.png",
+    "back": "./cards/miko/assets/back.png",
+    "model": "./assets/card.glb"
+  },
+  "parameters": {
+    "subjectScale": 1,
+    "subjectDepth": 0.42,
+    "backgroundDepth": -0.32,
+    "effectsDepth": 0.8,
+    "foil": 0.52
+  },
+  "safeArea": {
+    "scale": 1,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "appearance": {
+    "background": "#f3f0ff",
+    "finish": "gold"
+  }
+}
